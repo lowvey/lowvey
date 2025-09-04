@@ -1,6 +1,6 @@
 <!-- Animated Intro Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Kenneth!;Machine+Learning+Student;Specialized+in+Machine+Learning;Let's+Build+Something+Great!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Kenneth!;Computer+Science+Student;Specialized+in+Machine+Learning;Let's+Build+Something+Great!" />
 </p>
 
 ---
